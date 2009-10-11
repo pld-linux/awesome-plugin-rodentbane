@@ -6,7 +6,7 @@ Version:	0
 Release:	0.%{rel}.1
 License:	WTFPL
 Group:		X11/Window Managers
-## git clone git://git.glacicle.com/awesome/rodentbane.git
+# git clone git://git.glacicle.com/awesome/rodentbane.git
 Source0:	rodentbane.lua
 Requires:	awesome-plugin-awful
 Requires:	awesome-plugin-beautiful
