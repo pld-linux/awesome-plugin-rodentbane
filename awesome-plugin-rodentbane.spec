@@ -35,6 +35,8 @@ stronach www. Rodenbane nie zastępuje jednak w pełni myszy. Czasem
 wygodniej jest używać aplikacji, która może być w całości kontrolowana
 z poziomu klawiatury (takiej jak na przykład zarządca okien awesome).
 
+%prep
+
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_datadir}/awesome/lib
