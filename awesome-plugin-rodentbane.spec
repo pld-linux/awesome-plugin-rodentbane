@@ -1,4 +1,4 @@
-%define		rel 20090623
+%define		rel 20090624
 Summary:	An awesome plugin that allow to manipulate mouse cursor using keyboard
 Summary(pl.UTF-8):	Wtyczka awesome pozwalająca używać kursora myszy przy uzyciu klawiatury
 Name:		awesome-plugin-rodentbane
